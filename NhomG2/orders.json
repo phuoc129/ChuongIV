@@ -1,0 +1,181 @@
+[
+  {
+    "id": 1,
+    "userId": 2,
+    "username": "root",
+    "orderDate": "2025-12-31T14:01:30.5014957",
+    "totalAmount": 10000.0,
+    "status": "PENDING",
+    "items": [
+      {
+        "id": 0,
+        "orderId": 0,
+        "productId": "0125",
+        "productName": "Keo mut",
+        "price": 5000.0,
+        "quantity": 2,
+        "subtotal": 10000.0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "username": "root",
+    "orderDate": "2025-12-31T14:32:24.2474993",
+    "totalAmount": 75000.0,
+    "status": "PENDING",
+    "items": [
+      {
+        "id": 0,
+        "orderId": 0,
+        "productId": "SP001",
+        "productName": "Gạo ST25",
+        "price": 25000.0,
+        "quantity": 3,
+        "subtotal": 75000.0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "userId": 2,
+    "username": "root",
+    "orderDate": "2025-12-31T15:08:29.4802237",
+    "totalAmount": 50000.0,
+    "status": "PENDING",
+    "items": [
+      {
+        "id": 0,
+        "orderId": 0,
+        "productId": "SP001",
+        "productName": "Gạo ST25",
+        "price": 25000.0,
+        "quantity": 2,
+        "subtotal": 50000.0
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "userId": 2,
+    "username": "root",
+    "orderDate": "2025-12-31T15:14:18.93059",
+    "totalAmount": 205000.0,
+    "status": "PENDING",
+    "items": [
+      {
+        "id": 0,
+        "orderId": 0,
+        "productId": "SP003",
+        "productName": "Cà chua",
+        "price": 15000.0,
+        "quantity": 5,
+        "subtotal": 75000.0
+      },
+      {
+        "id": 0,
+        "orderId": 0,
+        "productId": "SP001",
+        "productName": "Gạo ST25",
+        "price": 25000.0,
+        "quantity": 4,
+        "subtotal": 100000.0
+      },
+      {
+        "id": 0,
+        "orderId": 0,
+        "productId": "SP002",
+        "productName": "Coca Cola",
+        "price": 10000.0,
+        "quantity": 3,
+        "subtotal": 30000.0
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "userId": 2,
+    "username": "root",
+    "orderDate": "2025-12-31T17:13:47.3631906",
+    "totalAmount": 7000.0,
+    "status": "PENDING",
+    "items": [
+      {
+        "id": 0,
+        "orderId": 0,
+        "productId": "0125",
+        "productName": "Keo mut",
+        "price": 5000.0,
+        "quantity": 2,
+        "subtotal": 10000.0
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "userId": 3,
+    "username": "1",
+    "orderDate": "2025-12-31T18:02:50.6264711",
+    "totalAmount": 1.999999998E9,
+    "status": "PENDING",
+    "items": [
+      {
+        "id": 0,
+        "orderId": 0,
+        "productId": "sp02",
+        "productName": "2",
+        "price": 6.66666666E8,
+        "quantity": 3,
+        "subtotal": 1.999999998E9
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "userId": 2,
+    "username": "root",
+    "orderDate": "2025-12-31T19:23:24.5176335",
+    "totalAmount": 110000.0,
+    "status": "PENDING",
+    "items": [
+      {
+        "id": 0,
+        "orderId": 0,
+        "productId": "SP002",
+        "productName": "Coca Cola",
+        "price": 10000.0,
+        "quantity": 2,
+        "subtotal": 20000.0
+      },
+      {
+        "id": 0,
+        "orderId": 0,
+        "productId": "2251",
+        "productName": "Bánh donut",
+        "price": 200000.0,
+        "quantity": 1,
+        "subtotal": 200000.0
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "userId": 2,
+    "username": "root",
+    "orderDate": "2025-12-31T19:23:50.2734807",
+    "totalAmount": 15000.0,
+    "status": "PENDING",
+    "items": [
+      {
+        "id": 0,
+        "orderId": 0,
+        "productId": "0125",
+        "productName": "Keo mut",
+        "price": 5000.0,
+        "quantity": 3,
+        "subtotal": 15000.0
+      }
+    ]
+  }
+]
